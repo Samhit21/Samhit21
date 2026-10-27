@@ -1,8 +1,7 @@
 # Hi, I'm Samhit
+I enjoy building practical software that combines machine learning, backend systems, and user-facing applications.
 
-Software developer with experience in machine learning, backend systems, and full-stack applications.
-
-I work with Python, Java, SQL, React, Flutter, REST APIs, and cloud-based workflows. I'm especially interested in machine learning, backend engineering, and building practical software products.
+My work has included predictive modeling, neural networks, REST APIs, SQL-backed applications, and full-stack development using Python, Java, React, Flutter, and cloud tools.
 
 ## Languages
 
@@ -14,4 +13,4 @@ PyTorch • TensorFlow • scikit-learn • Spring Boot • FastAPI • React �
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/samhit-nimmagadda/)
+Email: samhit.nimmagadda@gmail.com
